@@ -1,0 +1,81 @@
+
+.navebar {
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.menu {
+    text-decoration: none;
+    list-style-type: none;
+    height: 50px;
+    font-size: 18px;
+    background-color: chartreuse;
+    margin-right: 90%;
+    text-align: center;
+    text-decoration-style: none;
+    margin-top: 5px;
+    padding-top: 20px;
+    padding-bottom: 0;
+    color: aliceblue;
+}
+.menu:hover{
+    background-color: white;
+    text-decoration: none;
+}
+a {text-decoration: none;
+    text-align: center;
+    color: darkgreen;
+
+}
+
+.conimg {
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    left: 15%;
+    top: -30px;
+    
+}
+img {
+    object-fit: cover;
+}
+.con {
+    margin: 50px 0 solid black;
+   text-align: center;
+   color: #050300;
+   margin-top: 5%;
+   margin-left: 15%;
+   padding: 10px;
+   font-size: 25px;
+    background-color: #a5fd99;
+    box-shadow: 5px 8px 5px black;
+    text-shadow: 1px 2px #2e2d2d;
+}
+
+input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+}
+button {
+    height: 25px;
+    width: 100px;
+    margin-left: 40%;
+}
+
+.foot {
+    text-align: center;
+    background-color: lightgreen;
+    color: gray;
+}
+
+.conform  {
+    margin-left: 200px;
+    margin-top: 20px;
+}

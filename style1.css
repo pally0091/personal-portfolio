@@ -1,11 +1,16 @@
-.home-banner{
-   margin: 50px 0 solid black;
-   text-align: right;
-   color: #050300;
-   margin-top: 10%;
-   margin-left: 60%;
-   padding: 10px;
-   font-size: 25px;
+.home-banner {
+    margin: 50px 0 solid black;
+    text-align: right;
+    color: #050300;
+    margin-top: 10%;
+    margin-left: 60%;
+    padding-right: 50px;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    box-shadow: -20px 15px 10px #007a00a8;
+
     background-color: #a5fd99;
     box-shadow: 8px black;
     text-shadow: 1px lightgray;
@@ -35,7 +40,7 @@ body {
     list-style-type: none;
     height: 50px;
     font-size: 18px;
-    background-color: chartreuse;
+    background-color: #a5fd99;
     margin-right: 90%;
     text-align: center;
     text-decoration-style: none;
@@ -44,12 +49,22 @@ body {
     padding-bottom: 0;
     color: aliceblue;
 }
-.menu:hover{
+
+.menu:hover {
     background-color: white;
     text-decoration: none;
 }
-a {text-decoration: none;
+
+a {
+    text-decoration: none;
     text-align: center;
     color: darkgreen;
 
+}
+
+.foot {
+    text-align: center;
+    background-color: lightgreen;
+    color: #000000;
+    opacity: 50%;
 }
